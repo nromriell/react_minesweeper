@@ -1,0 +1,36 @@
+.ResetBackground
+  flex-grow: 0.70
+  height: 90%
+
+.ResetButton
+  background-color: #a0a0a0
+  box-sizing: border-box
+  border: 0.5vw outset #4f4f4f
+  width: 6vh
+  height: 6vh
+  margin: auto
+  transition: ease 0.20s
+  position: relative
+  background-image: url("../../Static/Images/baseline-sentiment_satisfied-24px.svg")
+  background-size: contain
+  background-position: center
+  background-repeat: no-repeat
+  &:Hover
+    background-color: #595959
+  &:active
+    border: 0.5vw inset #4f4f4f
+
+@media (min-aspect-ratio: 1/1)
+  .ResetButton
+    border: 0.5vh outset #4f4f4f
+    &:active
+      border: 0.5vh inset #4f4f4f
+
+.ExtraHappy
+  background-image: url("../../Static/Images/baseline-sentiment_very_satisfied-24px.svg")
+
+.Sad
+  background-image: url("../../Static/Images/baseline-sentiment_very_dissatisfied-24px.svg")
+
+.Worried
+  background-image: url("../../Static/Images/baseline-sentiment_worried-24px.svg")

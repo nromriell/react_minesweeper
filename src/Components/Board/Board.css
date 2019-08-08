@@ -1,0 +1,13 @@
+.Board {
+  margin: auto;
+  width: 50vh;
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: white;
+  box-sizing: content-box;
+  border: 5px outset #858585;
+  position: relative;
+}
+
+/*# sourceMappingURL=Board.css.map */

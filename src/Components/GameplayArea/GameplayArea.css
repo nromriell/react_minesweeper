@@ -1,0 +1,19 @@
+.GameplayArea {
+  background-image: linear-gradient(to top left, #7f7f7f, #b0cbd2);
+  margin: auto;
+  display: block;
+  padding-top: 0.2%;
+  background-color: darkgrey;
+  width: 100vw;
+  height: 80vh;
+  border: 0.5vw outset #9f9f9f;
+}
+
+@media (min-aspect-ratio: 1/1) {
+  .GameplayArea {
+    width: 60vh;
+    height: 70vh;
+  }
+}
+
+/*# sourceMappingURL=GameplayArea.css.map */

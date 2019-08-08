@@ -1,3 +1,7 @@
+Work in Progress - Simple Minesweeper React app using Sass stylesheets
+
+Use the middle or left mouse button to flag mines
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

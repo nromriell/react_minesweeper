@@ -1,0 +1,91 @@
+@keyframes transitionToHoverBase
+  0%
+    background-position: 100% 0
+  100%
+    background-position: 50% 0
+
+@keyframes transitionFlipped
+  0%
+    background-position: 100% 0
+  100%
+    background-position: 0 0
+
+
+.Cell
+  background-image: linear-gradient(-45deg, #5a70ff, #cda5ff, #ff7100, #ffe563, #a7a7a7, #ffffff)
+  flex-basis: 12.5%
+  box-sizing: border-box
+  border: 1px outset #ffffff
+  color: transparent
+  vertical-align: center
+  background-attachment: fixed
+  background-repeat: no-repeat
+  background-size: 800vh
+  background-position: 100% 0
+  transition: ease 0.25s
+  display: flex
+  justify-content: center
+  align-items: center
+  flex-flow: row
+  font-size: 2vh
+  &:Hover
+    background-position: 50% 0
+    animation-iteration-count: 1
+
+@media (min-aspect-ratio: 1/1)
+  .Cell
+    background-size: 800vw
+
+.CellText
+  color: transparent
+  transition: color ease 2s
+  font-family: Roboto
+  font-weight: bold
+  flex-grow: 1
+  left: 50%
+  top: 50%
+
+.Flipped
+  background-color: #ffffff
+  //background-image: linear-gradient(to top left, #a7a7a7, #ffffff)
+  border: 1px solid #ececec
+  color: black
+  animation-name: transitionFlipped
+  animation-duration: 2s
+  animation-iteration-count: 1
+  background-position: 0 0
+  &:Hover
+    background-color: #61dafb
+
+.Flagged
+  background-size: contain
+  background-position: center
+  background-attachment: local
+  background-image: url("../../Static/Images/baseline-outlined_flag-24px.svg")
+
+.Exploded
+  background-color: #4f4f4f
+  background-size: contain
+  background-position: center
+  background-attachment: local
+  background-image: url("../../Static/Images/baseline-wb_sunny-24px.svg")
+
+.NoTransition
+  transition: none
+
+.One
+  color: blue
+.Two
+  color: green
+.Three
+  color: red
+.Four
+  color: purple
+.Five
+  color: maroon
+.Six
+  color: darkturquoise
+.Seven
+  color: black
+.Eight
+  color: lightgray

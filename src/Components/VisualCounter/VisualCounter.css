@@ -1,0 +1,30 @@
+.VisualCounter {
+  border: 0.5vw outset #6f6f6f;
+  background-color: black;
+  color: red;
+  flex-grow: 0;
+  height: 25%;
+  padding: 0.5vh;
+  margin: 0;
+}
+
+.VisualText {
+  font-family: "Press Start 2P", cursive;
+  margin: 0;
+  padding: 0;
+  float: right;
+  color: red;
+  overflow: hidden;
+  line-height: 100%;
+  font-size: 2vh;
+  width: 6.5vh;
+  text-align: right;
+}
+
+@media (min-aspect-ratio: 1/1) {
+  .VisualCounter {
+    border: 0.5vh outset #6f6f6f;
+  }
+}
+
+/*# sourceMappingURL=VisualCounter.css.map */
