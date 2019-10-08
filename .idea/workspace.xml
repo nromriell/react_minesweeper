@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c833826a-aaae-4461-8d4a-64cd4527dd5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Board/Board.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Board/Board.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cell/Cell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cell/Cell.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Cell/CellData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/GameOver/GameOver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/GameOver/GameOver.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/GameplayArea/GameplayArea.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/GameplayArea/GameplayArea.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Info/Info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Info/Info.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/InfoButton/InfoButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/InfoButton/InfoButton.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Main.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ResetButton/EmotionsEnum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ResetButton/ResetButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ResetButton/ResetButton.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TopBar/TopBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TopBar/TopBar.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/VisualCounter/VisualCounter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/VisualCounter/VisualCounter.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static/Images/baseline-flag-24px.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static/Images/baseline-info-24px.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static/Images/baseline-outlined_flag-24px.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static/Images/baseline-sentiment_satisfied-24px.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static/Images/baseline-sentiment_very_dissatisfied-24px.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static/Images/baseline-sentiment_very_satisfied-24px.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static/Images/baseline-sentiment_worried-24px.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static/Images/baseline-wb_sunny-24px.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,27 +16,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Cell/Cell.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/GameplayArea/GameplayArea.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/GameplayArea/GameplayArea.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="272">
               <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -81,17 +31,17 @@
         <entry file="file://$PROJECT_DIR$/src/Components/Board/Board.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+              <first_editor relative-caret-position="51">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,9 +49,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../another_react_website_redux/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Components/Cell/Cell.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/Board/Board.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="2618">
               <caret line="159" column="23" selection-start-line="159" selection-start-column="23" selection-end-line="159" selection-end-column="23" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -113,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/Cell/Cell.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="476">
               <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -125,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/GameOver/GameOver.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="34">
               <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -225,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/Components/GameOver/GameOver.js" />
         <option value="$PROJECT_DIR$/src/Components/Board/Board.js" />
         <option value="$PROJECT_DIR$/src/Components/GameOver/GameOver.sass" />
+        <option value="$PROJECT_DIR$/../another_react_website_redux/package.json" />
       </list>
     </option>
   </component>
@@ -241,10 +210,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1282" />
-    <option name="y" value="190" />
-    <option name="width" value="2883" />
-    <option name="height" value="1563" />
+    <option name="x" value="480" />
+    <option name="y" value="262" />
+    <option name="width" value="2880" />
+    <option name="height" value="1575" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -287,6 +256,13 @@
               <item name="another_react_website" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Components" type="462c0819:PsiDirectoryNode" />
+              <item name="Cell" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="another_react_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="another_react_website" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
               <item name="GameOver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -304,6 +280,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="list.type.of.created.stylesheet" value="Sass" />
@@ -357,18 +334,20 @@
       <workItem from="1564937650965" duration="2652000" />
       <workItem from="1564977281392" duration="31000" />
       <workItem from="1565207246682" duration="2766000" />
-      <workItem from="1565286122860" duration="2302000" />
+      <workItem from="1565286122860" duration="3629000" />
+      <workItem from="1565715680179" duration="604000" />
+      <workItem from="1565803318222" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69980000" />
+    <option name="totallyTimeSpent" value="71965000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="855" y="127" width="1922" height="1042" extended-state="0" />
+    <frame x="320" y="175" width="1920" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16763926" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16728625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -440,8 +419,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Cell/Cell.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Cell/Cell.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -601,37 +580,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Cell/Cell.sass">
+    <entry file="file://$PROJECT_DIR$/src/Components/GameplayArea/GameplayArea.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Cell/Cell.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/GameplayArea/GameplayArea.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="272">
           <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/GameOver/GameOver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -641,13 +600,30 @@
     <entry file="file://$PROJECT_DIR$/src/Components/Board/Board.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../another_react_website_redux/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Board/Board.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
+        <state relative-caret-position="2618">
           <caret line="159" column="23" selection-start-line="159" selection-start-column="23" selection-end-line="159" selection-end-column="23" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -655,10 +631,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/GameplayArea/GameplayArea.sass">
+    <entry file="file://$PROJECT_DIR$/src/Components/Cell/Cell.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="476">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/GameOver/GameOver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -676,13 +665,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/Components/Cell/Cell.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
         </state>
       </provider>
     </entry>
